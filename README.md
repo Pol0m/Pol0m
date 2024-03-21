@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 ## 2. Page d'Accueil - Qui suis-je ?
 
 ### Informations Personnelles
+<img src="photo.jpg" alt="Photo" width="200"/>
+
 - Nom : Masson
 - Prénom : Paul
-- Photo :
 - Adresse e-mail : paul.masson1@etu.univ-lorraine.fr
 
 ### Tableau d'Activité
